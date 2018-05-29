@@ -1,5 +1,5 @@
 # Introduction to Computer Science for Computer Science Majors II
-Coursework for CPSC 233.
+Coursework for my second introductory computer science class.
 
 ## Dream Labyrinth
 
